@@ -1,2 +1,2 @@
-cd /home/pi/netflix-household-update
-/home/pi/netflix-household-update/.venv/bin/python netflix_household_update.py
+cd /home/$USER/netflix-household-update
+/usr/lib/python netflix_household_update.py
